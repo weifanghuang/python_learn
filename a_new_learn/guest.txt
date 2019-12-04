@@ -1,0 +1,3 @@
+Kim like the Python programming language!
+Jimi like the Jave programming language!
+Lucy like the C programming language!

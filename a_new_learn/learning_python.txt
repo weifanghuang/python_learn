@@ -1,0 +1,6 @@
+
+In Python you can stote as much information as you want.
+
+In Python you can connet pieces of information.
+
+In Python you can model real_world situations.
